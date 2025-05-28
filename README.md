@@ -1,7 +1,8 @@
+**ABOUT**
 
 The goal was to explore a real website, collect statistics, and understand how crawlers handle URL discovery, page parsing, and word frequency analysis. (I didn't put the data that I got (crawling specific servers) because it may violate several rules.)
 
-**WHAT IT DOES: **
+**WHAT IT DOES:**
 
 *Visits and records all unique URL pages
 
@@ -15,7 +16,7 @@ The goal was to explore a real website, collect statistics, and understand how c
 *Tracks how many pages exist under each subdomain
 
 
-**What The Report looks like: **
+**What The Report looks like:**
 
 **Results **
 Unique pages visited: 10,175
