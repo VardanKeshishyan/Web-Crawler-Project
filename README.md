@@ -1,6 +1,6 @@
 **ABOUT**
 
-The goal was to explore a real website, collect statistics, and understand how crawlers handle URL discovery, page parsing, and word frequency analysis. (I didn't put the data that I got (crawling specific servers) because it may violate several rules.)
+The goal was to explore a real website, collect statistics, and understand how crawlers handle URL discovery, page parsing, and word frequency analysis. **(I didn't put the data that I got (crawling specific servers) because it may violate several rules.)**
 
 **WHAT IT DOES:**
 
