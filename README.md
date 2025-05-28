@@ -22,7 +22,9 @@ The goal was to explore a real website, collect statistics, and understand how c
 Unique pages visited: 10,175
 
 Longest page:
+
 URL: http://www.example.com/~cs224
+
 Word count: 104,961
 
 
@@ -42,6 +44,7 @@ recent (2941)
 
 
 **Subdomains**
+
 accessibility.example.com (5)
 archive.example.com (183)
 asterix.example.com (5)
