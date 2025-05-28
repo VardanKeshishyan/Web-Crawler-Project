@@ -1,7 +1,7 @@
 1) Unique URL pages: 10175
 
 2) Longest page:
-   URL:   http://www.ics.uci.edu/~cs224
+   URL:   http://www.privat/~cs224
    Words: 104961
 
 3) The most common words (Top 50):
@@ -57,24 +57,8 @@
    recent: 2941
 
 4) Subdomains (alphabetical):
-   accessibility.ics.uci.edu, 5
-   archive.ics.uci.edu, 183
-   asterix.ics.uci.edu, 5
-   cecs.uci.edu, 10
-   cert.ics.uci.edu, 8
-   chenli.ics.uci.edu, 2
-   flamingo.ics.uci.edu, 14
-   fr.ics.uci.edu, 3
-   futurehealth.ics.uci.edu, 31
-   ics.uci.edu, 253
-   informatics.ics.uci.edu, 1
-   informatics.uci.edu, 119
-   isg.ics.uci.edu, 2796
-   jgarcia.ics.uci.edu, 34
-   malek.ics.uci.edu, 1
-   mover.ics.uci.edu, 24
-   sdcl.ics.uci.edu, 1
-   seal.ics.uci.edu, 48
-   sherlock.ics.uci.edu, 7
-   stat.uci.edu, 107
-   tastier.ics.uci.edu, 1
+   accessibility.example.com (5)
+   archive.example.com (183)
+   asterix.example.com (5)
+   cecs.example.com (10)
+   cert.example.com (8)
