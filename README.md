@@ -4,21 +4,21 @@ The goal was to explore a real website, collect statistics, and understand how c
 
 **WHAT IT DOES:**
 
-*Visits and records all unique URL pages
+* Visits and records all unique URL pages
+
+* Identifies the longest page by word count
 
 
-*Identifies the longest page by word count
+* Finds the 50 most frequent words across all pages
 
 
-*Finds the 50 most frequent words across all pages
-
-
-*Tracks how many pages exist under each subdomain
+* Tracks how many pages exist under each subdomain
 
 
 **What The Report looks like:**
 
-**Results **
+**Results**
+
 Unique pages visited: 10,175
 
 Longest page:
