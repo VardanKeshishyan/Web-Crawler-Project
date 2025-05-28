@@ -20,7 +20,9 @@ Example of what it would look like if you run it for specific set of URLs:
 Unique pages visited: 10175
 
 Longest page:
+
 URL: http://www.example.com/~cs224
+
 Word count: 104,961
 
 **Top 50 Most Frequent Words
