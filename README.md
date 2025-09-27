@@ -52,5 +52,5 @@ cecs.example.com (10)
 cert.example.com (8)
 
 
-Disclaimer: I know some classes require students to create web crawlers. This project represents my own independent implementation and is shared here for demonstration and educational purposes only. Please do not submit this code as your own work for any course.
+Disclaimer: I know some classes require students to create web crawlers. This project represents my own independent implementation and is shared here for demonstration only. Please do not submit this code as your own work for any course.
 
